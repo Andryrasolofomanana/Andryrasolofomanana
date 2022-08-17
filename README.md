@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andryrasolofomanana&label=Profile%20views&color=0e75b6&style=flat" alt="andryrasolofomanana" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andryrasolofomanana" alt="andryrasolofomanana" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andryrasolofomanana&theme=onedark" alt="andryrasolofomanana" /></a> </p>
 
 - 💬 Ask me about **react, vue, node, typescript, javascript**
 
@@ -19,3 +19,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andryrasolofomanana&show_icons=true&locale=en" alt="andryrasolofomanana" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andryrasolofomanana&" alt="andryrasolofomanana" /></p>
+
+
+
+
