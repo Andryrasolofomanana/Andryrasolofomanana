@@ -18,10 +18,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andryrasolofomanana&theme=onedark" alt="andryrasolofomanana" /></a> </p>
 
-
-[![andryrasolofomanana top tech](https://github-readme-stats-andryrasolofomanana.vercel.app/api/top-langs/?username=andryrasolofomanana&show_icons=true&layout=compact&hide=css,html)](https://github.com/andryrasolofomanana)
-
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andryrasolofomanana&show_icons=true&locale=en" alt="andryrasolofomanana" /></p>
 
 
@@ -33,5 +29,3 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
 </p>
 
-
-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
