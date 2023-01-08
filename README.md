@@ -1,7 +1,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </br>
 <h1 align="center">👋 I'm Rasolofomanana Andry</h1>
-<h3 align="center">A passionate fullstack developer from Madagascar, who is passionate about technologies and innovation</h3>
+<h3 align="center">I am a software developer and consultant, skilled in solving complex problems and delivering quality results for clients. My focus is on web and mobile app development. Based in Madagascar, I am passionate about technology and continuously learning to improve my skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andryrasolofomanana&label=Profile%20views&color=0e75b6&style=flat" alt="andryrasolofomanana" /> </p>
 
@@ -20,12 +20,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andryrasolofomanana&show_icons=true&locale=en" alt="andryrasolofomanana" /></p>
 
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andryrasolofomanana&" alt="andryrasolofomanana" /></p>
-
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
 </p>
-
