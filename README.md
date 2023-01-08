@@ -1,7 +1,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </br>
 <h1 align="center">👋 I'm Rasolofomanana Andry</h1>
-<h3 align="center">I am a software developer and consultant, skilled in solving complex problems and delivering quality results for clients. My focus is on web and mobile app development. Based in Madagascar, I am passionate about technology and continuously learning to improve my skills.</h3>
+<h3>I am a software developer and consultant, skilled in solving complex problems and delivering quality results for clients. My focus is on web and mobile app development. Based in Madagascar, I am passionate about technology and continuously learning to improve my skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andryrasolofomanana&label=Profile%20views&color=0e75b6&style=flat" alt="andryrasolofomanana" /> </p>
 
