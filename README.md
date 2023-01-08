@@ -1,13 +1,13 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </br>
-<h1 align="center">👋 I'm Rasolofomanana Andry</h1>
+<h1 align="center">I'm Rasolofomanana Andry</h1>
 <h3>I am a software developer and consultant, skilled in solving complex problems and delivering quality results for clients. My focus is on web and mobile app development. Based in Madagascar, I am passionate about technology and continuously learning to improve my skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andryrasolofomanana&label=Profile%20views&color=0e75b6&style=flat" alt="andryrasolofomanana" /> </p>
 
 <h1 align="left">Connect with me:</h1>
 <p align="left">
-<a href="https://stackoverflow.com/users/10877405" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10877405" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/10877405" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10877405" height="30" width="40" /></a>
 <a href="https://fb.com/kiama.cebrail" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kiama.cebrail" height="30" width="40" /></a>
 <a href="https://kiama-portfolio.vercel.app/?u=andry" target="blank"><img align="center" src="https://img.icons8.com/fluency/512/resume-website.png" alt="kiama portfolio" height="30" width="40" /></a>
 </p>
