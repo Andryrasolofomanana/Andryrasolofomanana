@@ -9,6 +9,7 @@
 <p align="left">
 <a href="https://stackoverflow.com/users/10877405" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10877405" height="30" width="40" /></a>
 <a href="https://fb.com/kiama.cebrail" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kiama.cebrail" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kiama-cebrail" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kiama-cebrail" height="30" width="40" /></a>
 <a href="https://kiama.vercel.app/?u=andry" target="blank"><img align="center" src="https://img.icons8.com/fluency/512/resume-website.png" alt="kiama portfolio" height="30" width="40" /></a>
 </p>
 
