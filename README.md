@@ -1,4 +1,4 @@
-# ⭐ Hi, I'm Rasolofomanana Andry — Software Developer from Madagascar
+# ⭐ Hi, I'm Rasolofomanana Andry (aka **Kiama**) — Software Developer from Madagascar
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=andryrasolofomanana&label=Profile%20Views&color=blueviolet&style=flat-square" />
@@ -6,14 +6,15 @@
 
 ## 👋 About Me
 
-I'm **Andry**, a software developer and consultant from **Madagascar**.  
-I build web, mobile, offline-first, and AI-powered applications—practical tools that solve real problems for real people.
+I'm **Andry**, also known online as **Kiama** — a software developer and consultant from **Madagascar**.  
+I build web, mobile, offline-first, 3D interactive, and AI-powered applications—practical tools that solve real problems for real people.
 
 I focus on:
 
 - ⚡ Clean, scalable, maintainable code
 - 📱 Smooth user experiences
 - 🤖 Offline AI & educational technologies
+- 🎮 3D interfaces & interactive experiences
 - 🚀 Delivering real value through technology
 
 I love learning, experimenting, and improving through each project I create.
@@ -41,7 +42,6 @@ I love learning, experimenting, and improving through each project I create.
 <img src="https://reactnative.dev/img/header_logo.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40"/>
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
-<img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40"/>
 </p>
 
@@ -66,6 +66,14 @@ I love learning, experimenting, and improving through each project I create.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40"/>
 <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="40"/>
+</p>
+
+### 🎮 3D, Animations & Interactive Experiences
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" title="React Three Fiber"/>
 </p>
 
 ### 📱 Mobile & Cross-platform
