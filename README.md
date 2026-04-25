@@ -57,11 +57,11 @@ I design systems, structure products, and create solutions built for long-term v
 
 # 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=andryrasolofomanana&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=facc15&custom_title=GitHub%20Performance&include_all_commits=true" />
 
-</p>
+</p> -->
 
 <p align="center">
 
