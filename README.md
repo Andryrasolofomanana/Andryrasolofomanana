@@ -71,16 +71,13 @@ Immersive interfaces using Three.js, interactive educational systems, simulation
 <a href="https://stackoverflow.com/users/10877405" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" width="40" />
 </a>
-
 <a href="https://fb.com/kiama.cebrail" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40" />
 </a>
-
 <a href="https://linkedin.com/in/kiama-cebrail" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" />
 </a>
-
-<a href="https://kiama.vercel.app/?u=andry" target="_blank">
+<a href="https://kiama.baliaka.com" target="_blank">
   <img src="https://img.icons8.com/fluency/512/resume-website.png" width="40" />
 </a>
 </p>
