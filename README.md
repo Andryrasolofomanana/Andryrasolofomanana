@@ -58,7 +58,15 @@ I design systems, structure products, and create solutions built for long-term v
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andryrasolofomanana&theme=dark" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=andryrasolofomanana&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&icon_color=facc15&custom_title=GitHub%20Performance&include_all_commits=true" />
+
+</p>
+
+<p align="center">
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=andryrasolofomanana&theme=transparent&hide_border=true&stroke=0000&ring=facc15&fire=facc15&currStreakLabel=58a6ff" />
+
 </p>
 
 ---
@@ -86,8 +94,8 @@ I design systems, structure products, and create solutions built for long-term v
 
 Creating technology that improves real lives.
 
-From ERP systems to educational platforms, from marketplaces to AI-powered tools  
-the mission stays the same:
+From ERP systems to educational platforms, from marketplaces to AI-powered tools,  
+the mission remains the same:
 
 ### Not just software. Systems with purpose.
 
