@@ -10,83 +10,30 @@
 
 # 👋 About Me
 
-I'm **Andry**, also known as **Kiama** - a software developer, product architect, and systems builder from **Madagascar**.
+I'm **Andry**, also known as **Kiama** a software developer, product architect, and systems builder from **Madagascar**.
 
-I design and build scalable digital products that solve real-world problems:
-ERP systems, marketplaces, educational platforms, offline-first applications, AI-powered tools, mobile apps, and 3D interactive experiences.
+I build scalable digital products: ERP systems, marketplaces, educational platforms, offline-first applications, AI-powered tools, mobile apps, and 3D interactive experiences.
 
-I don't just write code, I design systems, structure products, and create solutions built for long-term value.
-
-My goal is simple:
+I design systems, structure products, and create solutions built for long-term value.
 
 > Build technology that is useful, scalable, and meaningful.
 
 ---
 
-# 🧠 What I Build
+# ⚡ Core Focus
 
-### 🚀 Product Architecture
-
-Designing strong product foundations:
-business logic, scalable systems, maintainable architecture, and long-term product strategy.
-
-### 🏢 ERP & Business Systems
-
-Internal management platforms, POS systems, workflow automation, operations, finance, logistics, and business optimization tools.
-
-### 🌍 Marketplaces & Platforms
-
-E-commerce ecosystems, multi-role platforms, admin systems, customer flows, and scalable transactional systems.
-
-### 🎓 Education & Offline-First Solutions
-
-Smart educational platforms, university orientation systems, AI-powered learning tools, and fully offline-first educational experiences.
-
-### 🤖 AI-Powered Applications
-
-Practical AI integrations:
-automation, recommendations, learning systems, assistants, and intelligent product experiences.
-
-### 🎮 3D & Interactive Experiences
-
-Immersive interfaces using Three.js, interactive educational systems, simulations, and engaging user experiences.
-
----
-
-# ⚡ Core Principles
-
-- Clean, scalable, maintainable systems
-- Product thinking before feature building
-- Strong UX with real business value
-- Offline-first and practical AI solutions
-- Technology that solves real human problems
+- Product Architecture & System Design
+- ERP & Business Platforms
+- Marketplaces & Scalable Applications
+- Offline-first & Educational Technologies
+- AI-Powered Products
+- 3D Interactive Experiences
 
 > **Committed. Focused. Unstoppable.**
 
 ---
 
-# 🌐 Connect With Me
-
-<p align="left">
-<a href="https://stackoverflow.com/users/10877405" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" width="40" />
-</a>
-<a href="https://fb.com/kiama.cebrail" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40" />
-</a>
-<a href="https://linkedin.com/in/kiama-cebrail" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" />
-</a>
-<a href="https://kiama.baliaka.com" target="_blank">
-  <img src="https://img.icons8.com/fluency/512/resume-website.png" width="40" />
-</a>
-</p>
-
----
-
 # 🛠 Core Stack
-
-### Main Technologies I Build With
 
 <p align="left">
 
@@ -111,26 +58,38 @@ Immersive interfaces using Three.js, interactive educational systems, simulation
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=andryrasolofomanana&theme=onedark&margin-w=10&row=1" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andryrasolofomanana&theme=dark" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andryrasolofomanana&theme=dark" />
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+<a href="https://stackoverflow.com/users/10877405" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" width="40" />
+</a>
+<a href="https://fb.com/kiama.cebrail" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40" />
+</a>
+<a href="https://linkedin.com/in/kiama-cebrail" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" />
+</a>
+<a href="https://kiama.baliaka.com" target="_blank">
+  <img src="https://img.icons8.com/fluency/512/resume-website.png" width="40" />
+</a>
 </p>
 
 ---
 
 # 🏗 Current Vision
 
-Building products that matter.
+Creating technology that improves real lives.
 
-From ERP systems to educational platforms, from marketplaces to AI-powered tools
+From ERP systems to educational platforms, from marketplaces to AI-powered tools  
 the mission stays the same:
 
-### Create technology that improves real lives.
-
-Not just software.  
-Systems with purpose.
+### Not just software. Systems with purpose.
 
 ---
 
